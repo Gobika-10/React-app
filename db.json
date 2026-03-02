@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": "c487",
+      "name": "Kim namjoon"
+    },
+    {
+      "id": "0282",
+      "name": "Min Yoongi"
+    },
+    {
+      "id": "a1e1",
+      "name": "V"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
