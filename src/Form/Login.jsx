@@ -97,7 +97,7 @@ function Login() {
       setSuccess("");
     } else {
       setErrors({});
-      setSuccess("Form Submitted Successfully ✅");
+      setSuccess("Form Submitted Successfully ");
       console.log(formData);
     }
   };
